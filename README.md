@@ -10,7 +10,7 @@ This project is to work through the coding problems that are posted for the [Adv
 
 - Day 1
     - &#9745; Problem 1
-    - &#9744; Problem 2
+    - &#9745; Problem 2
 
 - Day 2
     - &#9744; Problem 3
