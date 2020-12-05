@@ -8,7 +8,9 @@ This project is to work through the coding problems that are posted for the [Adv
 
 ## Current Progress
 
-| - [ ] ### Day 1<br>  - [ ] Problem 1<br>  - [ ] Problem 2 | 
+- [ ] ### Day 1
+    - [ ] Problem 1
+    - [ ] Problem 2
 
 - [ ] ### Day 2
     - [ ] Problem 3
