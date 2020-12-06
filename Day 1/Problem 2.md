@@ -1,4 +1,6 @@
-# --- Day 1: Part Two ---
+# --- Day 1: Report Repair (cont.) ---
+
+## Problem 2
 
 The Elves in accounting are thankful for your help; one of them even offers you a starfish coin they had left over from a past vacation. They offer you a second one if you can find three numbers in your expense report that meet the same criteria.
 
