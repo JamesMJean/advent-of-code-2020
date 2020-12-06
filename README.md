@@ -13,8 +13,8 @@ This project is to work through the coding problems that are posted for the [Adv
     - &#9745; Problem 2
 
 - Day 2
-    - &#9744; Problem 3
-    - &#9744; Problem 4
+    - &#9745; Problem 3
+    - &#9745; Problem 4
 
 - Day 3
     - &#9744; Problem 5
