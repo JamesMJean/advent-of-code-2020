@@ -18,7 +18,7 @@ Day 2<br>
 
 Day 3<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&#9747; Problem 5
-&nbsp;&nbsp;&nbsp;&nbsp;&#9744; Problem 6
+&nbsp;&nbsp;&nbsp;&nbsp;:x: Problem 6
 
 Day 4<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&#9745; Problem 7
