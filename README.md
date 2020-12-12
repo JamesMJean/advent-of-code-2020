@@ -1,4 +1,4 @@
-# Advent of Code -- 2020
+<h1 align="center">Advent of Code -- 2020</h1>
 
 This project is to work through the coding problems that are posted for the [Advent of Code 2020](www.adventofcode.com/2020).  This is primarily for more practice using Javascript and maintaining version control of various separate code files with GitHub.
 
